@@ -9,7 +9,7 @@
 * [Varanus - *Devon*](characters/pc/varanus.md)
 
 ## Current City: [Saltmarsh](atlas/saltmarsh.md)
-![Saltmash Map](zmedia/saltmarsh.png)
+![Saltmash Map](blob/master/saltmarsh.png)
 
 ## Current Home:  [The Salty Turtle](items/saltyTurtle.md)
-![boat](zmedia/saltyturtle.png)
+![boat](blob/master/saltyturtle.png)
