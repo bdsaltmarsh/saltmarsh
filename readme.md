@@ -10,3 +10,6 @@
 
 ## Current City: [Saltmarsh](atlas/saltmarsh.md)
 ![Saltmash Map](zmedia/saltmarsh.png)
+
+## Current Home:  [The Salty Turtle](items/saltyTurtle.md)
+![boat](zmedia/saltyturtle.png)
